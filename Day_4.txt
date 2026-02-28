@@ -1,0 +1,7 @@
+27 and 28 February 2026
+
+On the 27th and 28th, I attended a workshop via Google Meet and started working on the project. 
+Today, I began developing the UI and UX, as well as planning the backend roadmap. 
+Honestly, I feel quite frustrated because this is my first time building a fairly complex system that involves multiple APIs and smart contracts.
+However, I will keep doing my best to complete it before the deadline.
+wish me luck

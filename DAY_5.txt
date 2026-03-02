@@ -1,0 +1,7 @@
+On the 1st and 2nd, I tried to build the MVP for my project using the help of LLMs and the documentation from AVAX.
+So far, the only thing completed is the mockup. The escrow system itself is still not working properly, and there are many bugs that need to be fixed. 
+I was planning to stay up late tonight to continue working on it, but my physical condition isn’t very good right now, so I decided to rest first.
+I’m not sure whether I’ll be able to finish it or not, but I’ll try again tomorrow.
+
+Today, I also attended the OFFICE HOUR session held by the organizers, where I had the opportunity to ask about several technical issues that had been confusing me.
+I’ve also prepared a personal roadmap for this project.
